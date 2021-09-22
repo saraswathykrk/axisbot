@@ -1,0 +1,28 @@
+﻿{
+  "qna": [
+    {
+      "qid": "axis.1",
+      "a": "• Digitization\n• Shop Floor Automation\n• Smart Process Automation\n• Manufacturing Intelligence\n• IOT\n• Augmented and Virtual\n• Mechanical Engineering\n• PLM\n• MES\n• Additive manufacturing\n• AI/ML\n• Technical Publication\n• Embedded Solutions",
+      "type": "qna",
+      "q": [
+        "What are the services offered by Axiscades?"
+      ]
+    },
+    {
+      "qid": "axis.2",
+      "a": "• Aerospace\n• Automotive\n• Off Highway and Industrial\n• Defence\n• Energy\n• Medical devices",
+      "type": "qna",
+      "q": [
+        "Which all industries does Axiscades operate in?"
+      ]
+    },
+    {
+      "qid": "axis.3",
+      "a": "AXISCADES is a technology solutions company focussing on engineering solutions and services. We bring expertise that caters to the engineering, technology, manufacturing and digital needs of fortune 100 clients in aerospace, defence, heavy engineering, automotive, energy & medical equipment sectors. With decades of experience in creating innovative, sustainable and safer products worldwide, AXISCADES delivers business value across the entire engineering lifecycle.",
+      "type": "qna",
+      "q": [
+        "Tell me about Axiscades"
+      ]
+    }
+  ]
+}
